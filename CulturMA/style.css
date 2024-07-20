@@ -40,6 +40,10 @@
 
 /* fim do menu mobile */
 
+.titulo{
+    font-size: 1.5rem;
+}
+
 
 /* Resposividade */
 @media ( max-width: 1241px) {
